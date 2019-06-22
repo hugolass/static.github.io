@@ -32,6 +32,12 @@ text-align: center;
   height: 490px;
 }
 
+.fab-fa-instagram {
+height: 600px;
+color: gold;
+display: center;
+
+}
 
 .desk {
  
@@ -427,12 +433,12 @@ section {
   
 }
 
-.carousel.img{
+/*.carousel.img{
   height: 50vh;
   object-fit:cover;
   width: 70%;
 }
-
+*/
 
 .box {
   display: flex;
